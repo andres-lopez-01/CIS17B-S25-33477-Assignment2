@@ -6,6 +6,6 @@ ReadMe
 - Borrow and return books
 
 ## How to Run
-- Clone the repository:
-  ```bash
-  git clone https://github.com/<your_username>/CIS17B-S25-33477-Assignment2.git
+-Go To Github
+-click on branches
+-select
